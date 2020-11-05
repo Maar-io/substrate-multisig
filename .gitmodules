@@ -1,0 +1,3 @@
+[submodule "multisig-frontend"]
+	path = multisig-frontend
+	url = git@github.com:Maar-io/multisig-frontend.git
